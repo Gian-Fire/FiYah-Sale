@@ -1,4 +1,8 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
+## Fiyah Sale App
+  Welcome to Fiyah-Sale. This repo is an E-commerce website used to practice Gatsby, Stripe and Redux.
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
